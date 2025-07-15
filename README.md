@@ -1,5 +1,9 @@
 Projeto EBOOK Gerado por I.A.s ℹ️ NOTE: Este é o repositório desenvolvido durante o curso no qual fui aluna na plataforma da DIO
 
+Leia o artigo completo clicando no link abaixo:
+
+👉 [Mais Que Remédio – Terapias que acolhem seu pet](./Mais_Que_Remedio.pdf)
+
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
 
 💻 Tecnologias utilizadas no projeto ChatGPT PowerPoint 🧠 Prompts ChatGPT：
